@@ -38,8 +38,8 @@
         }
         section {
             position: absolute;
-            width: 500px;
-            height: 500px;
+            width: 580px;
+            height: 75vh;
             overflow: hidden;
             background-color: rgb(14, 13, 20);
             display: none;
@@ -114,8 +114,8 @@
         }
         #window {
             position: absolute;
-            width: 500px;
-            height: 500px;
+            width: 580px;
+            height: 75vh;
             overflow: hidden;
             background-color: rgb(147, 173, 247);
         }
